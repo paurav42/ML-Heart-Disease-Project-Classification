@@ -1,1 +1,2 @@
-# ML_heart_disease_project_classification
+# heart-disease-project
+ 
